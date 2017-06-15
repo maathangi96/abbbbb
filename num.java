@@ -10,13 +10,16 @@ int b=s.nextInt();
 int c=s.nextInt();
 if((a>b)&&(a>c)
 {
-System.out.println("a is greater");
+System.out.println("a is larger");
 }
 else if((b>a)&&(b>c))
 {
-System.out.println("b is greater");
+System.out.println("b is larger");
 }
 else
-System.out.println("c is greater");
+System.out.println("c is larger");
 }
 }
+
+   
+   
